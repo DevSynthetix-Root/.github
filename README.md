@@ -15,7 +15,7 @@ Account_Type: Headless Service Account
 > ❗ This account does **not** accept issues, pull requests, or direct communication.  
 >  
 > For official projects and contributions, refer to:  
-> 👉 **[DevSynthetix Labs](https://github.com/DevSynthetix-Labs)**
+> 👉 **[DevSynthetix Labs](https://github.com/DevSynthetix)**
 
 <div align="left">
   <img src="https://img.shields.io/badge/System-Secure-success?style=flat-square&logo=github-actions" />
